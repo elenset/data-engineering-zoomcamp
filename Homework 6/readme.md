@@ -102,7 +102,7 @@ green-trips  OK
 
 
 #### Solution
-- Run jupyter notebook and run the code for Q3. See detail in [Homework with Flink.ipynb](https://github.com/alexanderlazutkin/DEZC2025/blob/main/week6/Homework%20with%20Flink.ipynb) file
+- Run jupyter notebook and run the code for Q3. See detail in [Homework with Flink.ipynb](https://github.com/elenset/data-engineering-zoomcamp/blob/main/Homework%206/Homework.ipynb) file
 
 ## Question 4: Sending the Trip Data
 
@@ -111,7 +111,7 @@ green-trips  OK
 
 
 #### Solution
-- Run jupyter notebook and run the code for Q4. See detail in [Homework with Flink.ipynb](https://github.com/alexanderlazutkin/DEZC2025/blob/main/week6/Homework%20with%20Flink.ipynb) file
+- Run jupyter notebook and run the code for Q4. See detail in [Homework with Flink.ipynb](https://github.com/elenset/data-engineering-zoomcamp/blob/main/Homework%206/Homework.ipynb) file
 
 
 ## Question 5: Build a Sessionization Window (2 points)
@@ -121,7 +121,7 @@ green-trips  OK
 
 
 #### Solution
-Prepare [aggregation_job.py](https://github.com/alexanderlazutkin/DEZC2025/blob/main/week6/aggregation_job.py) and sink table in database
+Prepare [aggregation_job.py](https://github.com/elenset/data-engineering-zoomcamp/blob/main/Homework%206/aggregation.py) and sink table in database
 ```sql
 drop table if exists aggregated_trips;
 CREATE TABLE aggregated_trips (
