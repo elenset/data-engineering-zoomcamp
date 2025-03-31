@@ -2,7 +2,7 @@
 
 ## Presentation Overview
 
-This project was completed as part of the Data Engineering Zoomcamp. It demonstrates an end-to-end data pipeline, from data ingestion and processing to data warehousing and visualization. This `README` provides an overview of the project, its objectives, the technologies used, and instructions on how to run the code. The final results of the project, including the dashboard and code, can be found in the [project-files-31-03.zip](https://github.com/elenset/data-engineering-zoomcamp/blob/main/project/files/project-files-31-03.zip) file.
+This project was completed as part of the Data Engineering Zoomcamp. It demonstrates an end-to-end data pipeline, from data ingestion and processing to data warehousing and visualization. This `README` provides an overview of the project, its objectives, the technologies used, and instructions on how to run the code. The final results of the project, including the dashboard and code, can be found in the [project-files-31-03.zip](https://github.com/elenset/data-engineering-zoomcamp/blob/main/project files/project-files-31-03.zip) file.
 
 ## 1. Problem Statement
 
