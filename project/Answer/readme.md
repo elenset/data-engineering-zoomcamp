@@ -72,3 +72,31 @@ To run this project, follow these steps:
 
 The project files are organized as follows:
 
+project-files-31-03.zip/
+├── [Directory/File 1]: [Description]
+├── [Directory/File 2]: [Description]
+└── ...
+
+
+## 8. Evaluation Criteria
+
+This project was evaluated based on the following criteria:
+
+*   **Problem Description:** [Score] / 4
+*   **Cloud:** [Score] / 4
+*   **Data Ingestion:** [Score] / 4
+*   **Data Warehouse:** [Score] / 4
+*   **Transformations:** [Score] / 4
+*   **Dashboard:** [Score] / 4
+*   **Reproducibility:** [Score] / 4
+
+## 9. Additional Information
+
+*   **Datasets:**  The dataset used in this project is [Name of Dataset] from [Source].
+*   **Project Gallery:**  Explore other projects from the Data Engineering Zoomcamp [here](https://datatalksclub-projects.streamlit.app/).
+
+---
+
+**Note:** This project adheres to the guidelines and recommendations provided in the Data Engineering Zoomcamp, with the goal of showcasing the skills and knowledge acquired throughout the course.
+
+
